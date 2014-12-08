@@ -12,3 +12,4 @@ Create a new branch is quick & simple by bianl.
 我正在进行一个比较友好的学习git的学习
 12343434
 12121212
+便利店的门还没关，去买点零食吃吧。
