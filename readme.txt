@@ -8,3 +8,4 @@ Git tracks changes of files.
 哈哈
 Create a new branch is quick & simple by bianl.
 --no--ff合并方式by bianl.
+10行添加一行新汉字。
