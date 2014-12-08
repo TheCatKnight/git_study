@@ -6,4 +6,4 @@ Git tracks changes of files.
 ..
 又修改了一点
 哈哈
-Create a new branch is quick & simple By bianl.
+Create a new branch is quick & simple by bianl.
