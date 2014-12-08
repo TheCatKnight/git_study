@@ -10,3 +10,4 @@ Create a new branch is quick & simple by bianl.
 --no--ff合并方式by bianl.
 10行添加一行新汉字。
 我正在进行一个比较友好的学习git的学习
+12121212
