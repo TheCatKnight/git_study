@@ -7,3 +7,4 @@ Git tracks changes of files.
 又修改了一点
 哈哈
 Create a new branch is quick & simple by bianl.
+10行添加一行新汉字。
