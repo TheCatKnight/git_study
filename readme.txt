@@ -7,3 +7,4 @@ Git tracks changes of files.
 又修改了一点
 哈哈
 Create a new branch is quick & simple by bianl.
+--no--ff合并方式by bianl.
